@@ -11,4 +11,16 @@ public class Book {
 	public void getAuthor() {
 		return author;
 	}
+	public void setCover(boolean cover) {
+		this.cover = cover;
+	}
+	public void getCover() {
+		return cover;
+	}
+	public void getpageNumber(int pageNumber); {
+		this.pageNumber = pageNumber;
+	}
+	public void setpageNumber() {
+		return pageNumber;
+	}
     }
