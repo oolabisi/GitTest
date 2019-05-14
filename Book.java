@@ -11,10 +11,4 @@ public class Book {
 	public void getAuthor() {
 		return author;
 	}
-	public void setCover(String cover) {
-		this.cover = cover;
-	}
-	public void getCover() {
-		return cover;
-	}
     }
